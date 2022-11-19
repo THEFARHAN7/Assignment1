@@ -1,2 +1,2 @@
-https://github.com/THEFARHAN7/Assignment1/blob/main/index.html
+https://thefarhan7.github.io/Assignment1/index.html
  
